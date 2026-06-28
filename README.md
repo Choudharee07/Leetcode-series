@@ -41,5 +41,10 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Choudharee07/Leetcode-series/tree/master/0326-power-of-three) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Choudharee07/Leetcode-series/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Choudharee07/Leetcode-series/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
