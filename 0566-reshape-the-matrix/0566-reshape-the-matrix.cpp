@@ -1,12 +1,19 @@
 class Solution {
 public:
     vector<vector<int>> matrixReshape(vector<vector<int>>& mat, int r, int c) {
-        int row = mat.size(), col = mat[0].size();
-        if (row * col != r * c) return mat;
+        int m = mat.size();
+        int n = mat[0].size();
 
-        vector<vector<int>> result(r, vector<int>(c));
-        for (int i = 0; i < row * col; i++) {
-            result[i / c][i % c] = mat[i / col][i % col];
+        if(m * n != r * c) return mat;
+
+        vector<vector<int>> result(r, vector<int>(c,0));
+
+        int count = 0;
+        for(int i = 0; i < m; i++){
+            for(int j = 0; j < n; j++){
+                result[count/c][count%c] = mat[i][j];
+                count++;
+            }
         }
         return result;
     }
