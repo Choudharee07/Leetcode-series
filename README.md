@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/Choudharee07/Leetcode-series/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/Choudharee07/Leetcode-series/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/Choudharee07/Leetcode-series/tree/master/0520-detect-capital) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Choudharee07/Leetcode-series/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Choudharee07/Leetcode-series/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Bit Manipulation
 |  |
@@ -66,4 +67,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Choudharee07/Leetcode-series/tree/master/0566-reshape-the-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Choudharee07/Leetcode-series/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Choudharee07/Leetcode-series/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
