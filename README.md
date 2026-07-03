@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Choudharee07/Leetcode-series/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Choudharee07/Leetcode-series/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Choudharee07/Leetcode-series/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/Choudharee07/Leetcode-series/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/Choudharee07/Leetcode-series/tree/master/0520-detect-capital) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Choudharee07/Leetcode-series/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
