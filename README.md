@@ -74,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Choudharee07/Leetcode-series/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Choudharee07/Leetcode-series/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
