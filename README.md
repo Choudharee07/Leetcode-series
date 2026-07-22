@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/Choudharee07/Leetcode-series/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Choudharee07/Leetcode-series/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1260-shift-2d-grid](https://github.com/Choudharee07/Leetcode-series/tree/master/1260-shift-2d-grid) |
+| [1470-shuffle-the-array](https://github.com/Choudharee07/Leetcode-series/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/Choudharee07/Leetcode-series/tree/master/1539-kth-missing-positive-number) |
 | [1748-sum-of-unique-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/1748-sum-of-unique-elements) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Choudharee07/Leetcode-series/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
