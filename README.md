@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0852-peak-index-in-a-mountain-array](https://github.com/Choudharee07/Leetcode-series/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1260-shift-2d-grid](https://github.com/Choudharee07/Leetcode-series/tree/master/1260-shift-2d-grid) |
 | [1470-shuffle-the-array](https://github.com/Choudharee07/Leetcode-series/tree/master/1470-shuffle-the-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Choudharee07/Leetcode-series/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/Choudharee07/Leetcode-series/tree/master/1539-kth-missing-positive-number) |
 | [1748-sum-of-unique-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/1748-sum-of-unique-elements) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Choudharee07/Leetcode-series/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Choudharee07/Leetcode-series/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/Choudharee07/Leetcode-series/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Choudharee07/Leetcode-series/tree/master/0628-maximum-product-of-three-numbers) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Choudharee07/Leetcode-series/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Math
 |  |
 | ------- |
