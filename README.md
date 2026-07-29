@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/Choudharee07/Leetcode-series/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Choudharee07/Leetcode-series/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Choudharee07/Leetcode-series/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Choudharee07/Leetcode-series/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/Choudharee07/Leetcode-series/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/Choudharee07/Leetcode-series/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Choudharee07/Leetcode-series/tree/master/0326-power-of-three) |
+| [0441-arranging-coins](https://github.com/Choudharee07/Leetcode-series/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Choudharee07/Leetcode-series/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Choudharee07/Leetcode-series/tree/master/0728-self-dividing-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Choudharee07/Leetcode-series/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
