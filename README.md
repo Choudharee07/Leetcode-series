@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/Choudharee07/Leetcode-series/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Choudharee07/Leetcode-series/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Choudharee07/Leetcode-series/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/Choudharee07/Leetcode-series/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Choudharee07/Leetcode-series/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Choudharee07/Leetcode-series/tree/master/1470-shuffle-the-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0492-construct-the-rectangle](https://github.com/Choudharee07/Leetcode-series/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Choudharee07/Leetcode-series/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Choudharee07/Leetcode-series/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/Choudharee07/Leetcode-series/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Choudharee07/Leetcode-series/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2485-find-the-pivot-integer](https://github.com/Choudharee07/Leetcode-series/tree/master/2485-find-the-pivot-integer) |
@@ -163,8 +165,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Choudharee07/Leetcode-series/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0877-stone-game](https://github.com/Choudharee07/Leetcode-series/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Choudharee07/Leetcode-series/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Choudharee07/Leetcode-series/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
