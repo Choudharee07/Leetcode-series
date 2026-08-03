@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0627-swap-sex-of-employees](https://github.com/Choudharee07/Leetcode-series/tree/master/0627-swap-sex-of-employees) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Choudharee07/Leetcode-series/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/Choudharee07/Leetcode-series/tree/master/1193-monthly-transactions-i) |
+| [1484-group-sold-products-by-the-date](https://github.com/Choudharee07/Leetcode-series/tree/master/1484-group-sold-products-by-the-date) |
 | [3570-find-books-with-no-available-copies](https://github.com/Choudharee07/Leetcode-series/tree/master/3570-find-books-with-no-available-copies) |
 ## String Matching
 |  |
