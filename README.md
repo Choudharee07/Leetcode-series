@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Choudharee07/Leetcode-series/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Choudharee07/Leetcode-series/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Choudharee07/Leetcode-series/tree/master/0704-binary-search) |
+| [0821-shortest-distance-to-a-character](https://github.com/Choudharee07/Leetcode-series/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Choudharee07/Leetcode-series/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Choudharee07/Leetcode-series/tree/master/0877-stone-game) |
 | [1089-duplicate-zeros](https://github.com/Choudharee07/Leetcode-series/tree/master/1089-duplicate-zeros) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/Choudharee07/Leetcode-series/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Choudharee07/Leetcode-series/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Choudharee07/Leetcode-series/tree/master/0392-is-subsequence) |
+| [0821-shortest-distance-to-a-character](https://github.com/Choudharee07/Leetcode-series/tree/master/0821-shortest-distance-to-a-character) |
 | [1089-duplicate-zeros](https://github.com/Choudharee07/Leetcode-series/tree/master/1089-duplicate-zeros) |
 | [2540-minimum-common-value](https://github.com/Choudharee07/Leetcode-series/tree/master/2540-minimum-common-value) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Choudharee07/Leetcode-series/tree/master/3884-first-matching-character-from-both-ends) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0520-detect-capital](https://github.com/Choudharee07/Leetcode-series/tree/master/0520-detect-capital) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Choudharee07/Leetcode-series/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/Choudharee07/Leetcode-series/tree/master/0709-to-lower-case) |
+| [0821-shortest-distance-to-a-character](https://github.com/Choudharee07/Leetcode-series/tree/master/0821-shortest-distance-to-a-character) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Choudharee07/Leetcode-series/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Choudharee07/Leetcode-series/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Choudharee07/Leetcode-series/tree/master/3884-first-matching-character-from-both-ends) |
