@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Choudharee07/Leetcode-series/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0164-maximum-gap](https://github.com/Choudharee07/Leetcode-series/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/Choudharee07/Leetcode-series/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Choudharee07/Leetcode-series/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Choudharee07/Leetcode-series/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Choudharee07/Leetcode-series/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Choudharee07/Leetcode-series/tree/master/0485-max-consecutive-ones) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/Choudharee07/Leetcode-series/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Choudharee07/Leetcode-series/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Choudharee07/Leetcode-series/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Choudharee07/Leetcode-series/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Choudharee07/Leetcode-series/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Choudharee07/Leetcode-series/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/Choudharee07/Leetcode-series/tree/master/0441-arranging-coins) |
@@ -215,5 +217,22 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Choudharee07/Leetcode-series/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Choudharee07/Leetcode-series/tree/master/3345-smallest-divisible-digit-product-i) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Choudharee07/Leetcode-series/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Choudharee07/Leetcode-series/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Choudharee07/Leetcode-series/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Choudharee07/Leetcode-series/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
