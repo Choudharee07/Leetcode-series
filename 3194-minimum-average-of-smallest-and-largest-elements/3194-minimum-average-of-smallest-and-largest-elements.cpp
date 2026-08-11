@@ -2,14 +2,16 @@ class Solution {
 public:
     double minimumAverage(vector<int>& nums) {
         vector<float>average;
-        while(!empty(nums)){
-            float min = *min_element(nums.begin(),nums.end());
-            float max = *max_element(nums.begin(),nums.end());
+        sort(nums.begin(),nums.end());
+        float min,max;
+        int i=0;
+        int j= nums.size()-1;
+        while(i<j){
+            min= nums[i];
+            max = nums[j];
             average.push_back((min+max)/2.0);
-            auto it = find(nums.begin(),nums.end(),min);
-            nums.erase(it);
-            auto iit = find(nums.begin(),nums.end(),max);
-            nums.erase(iit);
+            i++;
+            j--;
         }
         return *min_element(average.begin(),average.end());
     }
