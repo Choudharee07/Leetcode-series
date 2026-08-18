@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Choudharee07/Leetcode-series/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Choudharee07/Leetcode-series/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1748-sum-of-unique-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Choudharee07/Leetcode-series/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2465-number-of-distinct-averages](https://github.com/Choudharee07/Leetcode-series/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/Choudharee07/Leetcode-series/tree/master/2540-minimum-common-value) |
 | [3731-find-missing-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/3731-find-missing-elements) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0821-shortest-distance-to-a-character](https://github.com/Choudharee07/Leetcode-series/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/Choudharee07/Leetcode-series/tree/master/0917-reverse-only-letters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Choudharee07/Leetcode-series/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Choudharee07/Leetcode-series/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Choudharee07/Leetcode-series/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Choudharee07/Leetcode-series/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2678-number-of-senior-citizens](https://github.com/Choudharee07/Leetcode-series/tree/master/2678-number-of-senior-citizens) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Choudharee07/Leetcode-series/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
