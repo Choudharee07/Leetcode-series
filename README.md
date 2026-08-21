@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Choudharee07/Leetcode-series/tree/master/0164-maximum-gap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Choudharee07/Leetcode-series/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
