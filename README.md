@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1748-sum-of-unique-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/1748-sum-of-unique-elements) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Choudharee07/Leetcode-series/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Choudharee07/Leetcode-series/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Choudharee07/Leetcode-series/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2465-number-of-distinct-averages](https://github.com/Choudharee07/Leetcode-series/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/Choudharee07/Leetcode-series/tree/master/2540-minimum-common-value) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/Choudharee07/Leetcode-series/tree/master/2644-find-the-maximum-divisibility-score) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1688-count-of-matches-in-tournament](https://github.com/Choudharee07/Leetcode-series/tree/master/1688-count-of-matches-in-tournament) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Choudharee07/Leetcode-series/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Choudharee07/Leetcode-series/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2485-find-the-pivot-integer](https://github.com/Choudharee07/Leetcode-series/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Choudharee07/Leetcode-series/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/2544-alternating-digit-sum) |
