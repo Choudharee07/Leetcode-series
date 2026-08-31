@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1748-sum-of-unique-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Choudharee07/Leetcode-series/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2032-two-out-of-three](https://github.com/Choudharee07/Leetcode-series/tree/master/2032-two-out-of-three) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Choudharee07/Leetcode-series/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Choudharee07/Leetcode-series/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2465-number-of-distinct-averages](https://github.com/Choudharee07/Leetcode-series/tree/master/2465-number-of-distinct-averages) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1015-smallest-integer-divisible-by-k](https://github.com/Choudharee07/Leetcode-series/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1748-sum-of-unique-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Choudharee07/Leetcode-series/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2032-two-out-of-three](https://github.com/Choudharee07/Leetcode-series/tree/master/2032-two-out-of-three) |
 | [2465-number-of-distinct-averages](https://github.com/Choudharee07/Leetcode-series/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/Choudharee07/Leetcode-series/tree/master/2540-minimum-common-value) |
 | [3731-find-missing-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/3731-find-missing-elements) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0389-find-the-difference](https://github.com/Choudharee07/Leetcode-series/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Choudharee07/Leetcode-series/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2032-two-out-of-three](https://github.com/Choudharee07/Leetcode-series/tree/master/2032-two-out-of-three) |
 ## Sorting
 |  |
 | ------- |
