@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Choudharee07/Leetcode-series/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/Choudharee07/Leetcode-series/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/Choudharee07/Leetcode-series/tree/master/1550-three-consecutive-odds) |
+| [1572-matrix-diagonal-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Choudharee07/Leetcode-series/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Choudharee07/Leetcode-series/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/Choudharee07/Leetcode-series/tree/master/1260-shift-2d-grid) |
+| [1572-matrix-diagonal-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Choudharee07/Leetcode-series/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
