@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Choudharee07/Leetcode-series/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Choudharee07/Leetcode-series/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Choudharee07/Leetcode-series/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3959-check-good-integer](https://github.com/Choudharee07/Leetcode-series/tree/master/3959-check-good-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Choudharee07/Leetcode-series/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Choudharee07/Leetcode-series/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3959-check-good-integer](https://github.com/Choudharee07/Leetcode-series/tree/master/3959-check-good-integer) |
 ## Stack
 |  |
 | ------- |
