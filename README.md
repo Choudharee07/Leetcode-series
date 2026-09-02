@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1089-duplicate-zeros](https://github.com/Choudharee07/Leetcode-series/tree/master/1089-duplicate-zeros) |
 | [1260-shift-2d-grid](https://github.com/Choudharee07/Leetcode-series/tree/master/1260-shift-2d-grid) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Choudharee07/Leetcode-series/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1390-four-divisors](https://github.com/Choudharee07/Leetcode-series/tree/master/1390-four-divisors) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Choudharee07/Leetcode-series/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Choudharee07/Leetcode-series/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/Choudharee07/Leetcode-series/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Choudharee07/Leetcode-series/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Choudharee07/Leetcode-series/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1390-four-divisors](https://github.com/Choudharee07/Leetcode-series/tree/master/1390-four-divisors) |
 | [1688-count-of-matches-in-tournament](https://github.com/Choudharee07/Leetcode-series/tree/master/1688-count-of-matches-in-tournament) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Choudharee07/Leetcode-series/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Choudharee07/Leetcode-series/tree/master/0204-count-primes) |
+| [1390-four-divisors](https://github.com/Choudharee07/Leetcode-series/tree/master/1390-four-divisors) |
 | [1952-three-divisors](https://github.com/Choudharee07/Leetcode-series/tree/master/1952-three-divisors) |
 ## Prime Number Sieve
 |  |
@@ -322,5 +325,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prime Factorization
 |  |
 | ------- |
+| [1390-four-divisors](https://github.com/Choudharee07/Leetcode-series/tree/master/1390-four-divisors) |
 | [1952-three-divisors](https://github.com/Choudharee07/Leetcode-series/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
