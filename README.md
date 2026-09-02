@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Choudharee07/Leetcode-series/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2465-number-of-distinct-averages](https://github.com/Choudharee07/Leetcode-series/tree/master/2465-number-of-distinct-averages) |
+| [2578-split-with-minimum-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/2578-split-with-minimum-sum) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/Choudharee07/Leetcode-series/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/3731-find-missing-elements) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2485-find-the-pivot-integer](https://github.com/Choudharee07/Leetcode-series/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Choudharee07/Leetcode-series/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/2544-alternating-digit-sum) |
+| [2578-split-with-minimum-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/2578-split-with-minimum-sum) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Choudharee07/Leetcode-series/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Choudharee07/Leetcode-series/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Choudharee07/Leetcode-series/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Choudharee07/Leetcode-series/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2578-split-with-minimum-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/2578-split-with-minimum-sum) |
 ## Game Theory
 |  |
 | ------- |
