@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Choudharee07/Leetcode-series/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Choudharee07/Leetcode-series/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Choudharee07/Leetcode-series/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Choudharee07/Leetcode-series/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2678-number-of-senior-citizens](https://github.com/Choudharee07/Leetcode-series/tree/master/2678-number-of-senior-citizens) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Choudharee07/Leetcode-series/tree/master/3884-first-matching-character-from-both-ends) |
 ## Bit Manipulation
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Choudharee07/Leetcode-series/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Choudharee07/Leetcode-series/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Choudharee07/Leetcode-series/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3959-check-good-integer](https://github.com/Choudharee07/Leetcode-series/tree/master/3959-check-good-integer) |
 ## Stack
 |  |
