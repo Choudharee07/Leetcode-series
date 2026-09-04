@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3731-find-missing-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Choudharee07/Leetcode-series/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Choudharee07/Leetcode-series/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Choudharee07/Leetcode-series/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/Choudharee07/Leetcode-series/tree/master/2485-find-the-pivot-integer) |
+| [3903-smallest-stable-index-i](https://github.com/Choudharee07/Leetcode-series/tree/master/3903-smallest-stable-index-i) |
 ## Bucket Sort
 |  |
 | ------- |
