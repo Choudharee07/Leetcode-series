@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0566-reshape-the-matrix](https://github.com/Choudharee07/Leetcode-series/tree/master/0566-reshape-the-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Choudharee07/Leetcode-series/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Choudharee07/Leetcode-series/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Choudharee07/Leetcode-series/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Choudharee07/Leetcode-series/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Choudharee07/Leetcode-series/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0821-shortest-distance-to-a-character](https://github.com/Choudharee07/Leetcode-series/tree/master/0821-shortest-distance-to-a-character) |
@@ -337,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1390-four-divisors](https://github.com/Choudharee07/Leetcode-series/tree/master/1390-four-divisors) |
 | [1952-three-divisors](https://github.com/Choudharee07/Leetcode-series/tree/master/1952-three-divisors) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Choudharee07/Leetcode-series/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
