@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3232-find-if-digit-game-can-be-won](https://github.com/Choudharee07/Leetcode-series/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Choudharee07/Leetcode-series/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3701-compute-alternating-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Choudharee07/Leetcode-series/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Choudharee07/Leetcode-series/tree/master/3875-construct-uniform-parity-array-i) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2169-count-operations-to-obtain-zero](https://github.com/Choudharee07/Leetcode-series/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Choudharee07/Leetcode-series/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3701-compute-alternating-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/3701-compute-alternating-sum) |
 | [3959-check-good-integer](https://github.com/Choudharee07/Leetcode-series/tree/master/3959-check-good-integer) |
 ## Stack
 |  |
