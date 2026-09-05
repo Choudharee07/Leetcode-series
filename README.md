@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Choudharee07/Leetcode-series/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Choudharee07/Leetcode-series/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Choudharee07/Leetcode-series/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3701-compute-alternating-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/3731-find-missing-elements) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/Choudharee07/Leetcode-series/tree/master/2485-find-the-pivot-integer) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Choudharee07/Leetcode-series/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3903-smallest-stable-index-i](https://github.com/Choudharee07/Leetcode-series/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Choudharee07/Leetcode-series/tree/master/3904-smallest-stable-index-ii) |
 ## Bucket Sort
