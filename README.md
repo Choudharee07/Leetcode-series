@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Choudharee07/Leetcode-series/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2032-two-out-of-three](https://github.com/Choudharee07/Leetcode-series/tree/master/2032-two-out-of-three) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Choudharee07/Leetcode-series/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Choudharee07/Leetcode-series/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Choudharee07/Leetcode-series/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Choudharee07/Leetcode-series/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2465-number-of-distinct-averages](https://github.com/Choudharee07/Leetcode-series/tree/master/2465-number-of-distinct-averages) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1748-sum-of-unique-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Choudharee07/Leetcode-series/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2032-two-out-of-three](https://github.com/Choudharee07/Leetcode-series/tree/master/2032-two-out-of-three) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Choudharee07/Leetcode-series/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Choudharee07/Leetcode-series/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Choudharee07/Leetcode-series/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/Choudharee07/Leetcode-series/tree/master/2540-minimum-common-value) |
