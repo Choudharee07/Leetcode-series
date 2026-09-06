@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1260-shift-2d-grid](https://github.com/Choudharee07/Leetcode-series/tree/master/1260-shift-2d-grid) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Choudharee07/Leetcode-series/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1390-four-divisors](https://github.com/Choudharee07/Leetcode-series/tree/master/1390-four-divisors) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Choudharee07/Leetcode-series/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Choudharee07/Leetcode-series/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Choudharee07/Leetcode-series/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0566-reshape-the-matrix](https://github.com/Choudharee07/Leetcode-series/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Choudharee07/Leetcode-series/tree/master/0657-robot-return-to-origin) |
 | [1260-shift-2d-grid](https://github.com/Choudharee07/Leetcode-series/tree/master/1260-shift-2d-grid) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Choudharee07/Leetcode-series/tree/master/1441-build-an-array-with-stack-operations) |
 | [1688-count-of-matches-in-tournament](https://github.com/Choudharee07/Leetcode-series/tree/master/1688-count-of-matches-in-tournament) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Choudharee07/Leetcode-series/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Choudharee07/Leetcode-series/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Choudharee07/Leetcode-series/tree/master/0020-valid-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Choudharee07/Leetcode-series/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Choudharee07/Leetcode-series/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Database
 |  |
