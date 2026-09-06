@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Choudharee07/Leetcode-series/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Choudharee07/Leetcode-series/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Choudharee07/Leetcode-series/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Choudharee07/Leetcode-series/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Choudharee07/Leetcode-series/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/Choudharee07/Leetcode-series/tree/master/0566-reshape-the-matrix) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Choudharee07/Leetcode-series/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Choudharee07/Leetcode-series/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Choudharee07/Leetcode-series/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Choudharee07/Leetcode-series/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Choudharee07/Leetcode-series/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1748-sum-of-unique-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/1748-sum-of-unique-elements) |
