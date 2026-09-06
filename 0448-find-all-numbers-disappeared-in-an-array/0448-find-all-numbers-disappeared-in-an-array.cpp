@@ -1,13 +1,14 @@
 class Solution {
 public:
     vector<int> findDisappearedNumbers(vector<int>& nums) {
-        unordered_map<int,int>freq;
+        int n = nums.size();
+        vector<int>arr(n+1,0);
         vector<int>ans;
         for(int val:nums){
-            freq[val]++;
+            arr[val]++;
         }
         for(int i=1;i<=nums.size();i++){
-            if(freq[i]==0) ans.push_back(i);
+            if(arr[i]==0) ans.push_back(i);
         }
         return ans;
     }
