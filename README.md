@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/Choudharee07/Leetcode-series/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Choudharee07/Leetcode-series/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Choudharee07/Leetcode-series/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Choudharee07/Leetcode-series/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Choudharee07/Leetcode-series/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Choudharee07/Leetcode-series/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Choudharee07/Leetcode-series/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Choudharee07/Leetcode-series/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Choudharee07/Leetcode-series/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Choudharee07/Leetcode-series/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Choudharee07/Leetcode-series/tree/master/0389-find-the-difference) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/Choudharee07/Leetcode-series/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Choudharee07/Leetcode-series/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Choudharee07/Leetcode-series/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Choudharee07/Leetcode-series/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Choudharee07/Leetcode-series/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Choudharee07/Leetcode-series/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Choudharee07/Leetcode-series/tree/master/0326-power-of-three) |
@@ -365,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Choudharee07/Leetcode-series/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Choudharee07/Leetcode-series/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
