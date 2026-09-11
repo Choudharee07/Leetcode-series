@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2169-count-operations-to-obtain-zero](https://github.com/Choudharee07/Leetcode-series/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Choudharee07/Leetcode-series/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Choudharee07/Leetcode-series/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/Choudharee07/Leetcode-series/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Choudharee07/Leetcode-series/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/2544-alternating-digit-sum) |
@@ -360,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Choudharee07/Leetcode-series/tree/master/0643-maximum-average-subarray-i) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Choudharee07/Leetcode-series/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
