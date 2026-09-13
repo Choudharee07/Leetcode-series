@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1089-duplicate-zeros](https://github.com/Choudharee07/Leetcode-series/tree/master/1089-duplicate-zeros) |
 | [1260-shift-2d-grid](https://github.com/Choudharee07/Leetcode-series/tree/master/1260-shift-2d-grid) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Choudharee07/Leetcode-series/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Choudharee07/Leetcode-series/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Choudharee07/Leetcode-series/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1390-four-divisors](https://github.com/Choudharee07/Leetcode-series/tree/master/1390-four-divisors) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Choudharee07/Leetcode-series/tree/master/1441-build-an-array-with-stack-operations) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0728-self-dividing-numbers](https://github.com/Choudharee07/Leetcode-series/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/Choudharee07/Leetcode-series/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Choudharee07/Leetcode-series/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Choudharee07/Leetcode-series/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Choudharee07/Leetcode-series/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/Choudharee07/Leetcode-series/tree/master/1390-four-divisors) |
 | [1688-count-of-matches-in-tournament](https://github.com/Choudharee07/Leetcode-series/tree/master/1688-count-of-matches-in-tournament) |
