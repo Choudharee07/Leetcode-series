@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/Choudharee07/Leetcode-series/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Choudharee07/Leetcode-series/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Choudharee07/Leetcode-series/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/Choudharee07/Leetcode-series/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Choudharee07/Leetcode-series/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/Choudharee07/Leetcode-series/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Choudharee07/Leetcode-series/tree/master/0492-construct-the-rectangle) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Choudharee07/Leetcode-series/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Choudharee07/Leetcode-series/tree/master/0877-stone-game) |
 ## Bracket Sequences
 |  |
@@ -375,4 +377,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Choudharee07/Leetcode-series/tree/master/0202-happy-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Choudharee07/Leetcode-series/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Choudharee07/Leetcode-series/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Choudharee07/Leetcode-series/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Choudharee07/Leetcode-series/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
