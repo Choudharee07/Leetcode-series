@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/Choudharee07/Leetcode-series/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Choudharee07/Leetcode-series/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Choudharee07/Leetcode-series/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Choudharee07/Leetcode-series/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Choudharee07/Leetcode-series/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Choudharee07/Leetcode-series/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0058-length-of-last-word](https://github.com/Choudharee07/Leetcode-series/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Choudharee07/Leetcode-series/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Choudharee07/Leetcode-series/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Choudharee07/Leetcode-series/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Choudharee07/Leetcode-series/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Choudharee07/Leetcode-series/tree/master/0392-is-subsequence) |
 | [0504-base-7](https://github.com/Choudharee07/Leetcode-series/tree/master/0504-base-7) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0164-maximum-gap](https://github.com/Choudharee07/Leetcode-series/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/Choudharee07/Leetcode-series/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Choudharee07/Leetcode-series/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Choudharee07/Leetcode-series/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Choudharee07/Leetcode-series/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Choudharee07/Leetcode-series/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Choudharee07/Leetcode-series/tree/master/0747-largest-number-at-least-twice-of-others) |
