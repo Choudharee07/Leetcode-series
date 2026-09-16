@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1822-sign-of-the-product-of-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Choudharee07/Leetcode-series/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2032-two-out-of-three](https://github.com/Choudharee07/Leetcode-series/tree/master/2032-two-out-of-three) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Choudharee07/Leetcode-series/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Choudharee07/Leetcode-series/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Choudharee07/Leetcode-series/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1748-sum-of-unique-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Choudharee07/Leetcode-series/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2032-two-out-of-three](https://github.com/Choudharee07/Leetcode-series/tree/master/2032-two-out-of-three) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Choudharee07/Leetcode-series/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Choudharee07/Leetcode-series/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Choudharee07/Leetcode-series/tree/master/2465-number-of-distinct-averages) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Choudharee07/Leetcode-series/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Choudharee07/Leetcode-series/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Choudharee07/Leetcode-series/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Choudharee07/Leetcode-series/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Choudharee07/Leetcode-series/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2678-number-of-senior-citizens](https://github.com/Choudharee07/Leetcode-series/tree/master/2678-number-of-senior-citizens) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/Choudharee07/Leetcode-series/tree/master/0229-majority-element-ii) |
 | [1748-sum-of-unique-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Choudharee07/Leetcode-series/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Choudharee07/Leetcode-series/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Prefix Sum
 |  |
