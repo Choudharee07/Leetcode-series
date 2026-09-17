@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3875-construct-uniform-parity-array-i](https://github.com/Choudharee07/Leetcode-series/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Choudharee07/Leetcode-series/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Choudharee07/Leetcode-series/tree/master/3904-smallest-stable-index-ii) |
+| [3978-unique-middle-element](https://github.com/Choudharee07/Leetcode-series/tree/master/3978-unique-middle-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2053-kth-distinct-string-in-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Choudharee07/Leetcode-series/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Choudharee07/Leetcode-series/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3978-unique-middle-element](https://github.com/Choudharee07/Leetcode-series/tree/master/3978-unique-middle-element) |
 ## Prefix Sum
 |  |
 | ------- |
