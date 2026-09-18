@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1748-sum-of-unique-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Choudharee07/Leetcode-series/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Choudharee07/Leetcode-series/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/Choudharee07/Leetcode-series/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Choudharee07/Leetcode-series/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1394-find-lucky-integer-in-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Choudharee07/Leetcode-series/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Choudharee07/Leetcode-series/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/Choudharee07/Leetcode-series/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Choudharee07/Leetcode-series/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1394-find-lucky-integer-in-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Choudharee07/Leetcode-series/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Choudharee07/Leetcode-series/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Choudharee07/Leetcode-series/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Choudharee07/Leetcode-series/tree/master/3005-count-elements-with-maximum-frequency) |
