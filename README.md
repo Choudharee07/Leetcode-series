@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3427-sum-of-variable-length-subarrays](https://github.com/Choudharee07/Leetcode-series/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Choudharee07/Leetcode-series/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Choudharee07/Leetcode-series/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3701-compute-alternating-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Choudharee07/Leetcode-series/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2465-number-of-distinct-averages](https://github.com/Choudharee07/Leetcode-series/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/Choudharee07/Leetcode-series/tree/master/2540-minimum-common-value) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Choudharee07/Leetcode-series/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/Choudharee07/Leetcode-series/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/Choudharee07/Leetcode-series/tree/master/3945-digit-frequency-score) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Choudharee07/Leetcode-series/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/Choudharee07/Leetcode-series/tree/master/3536-maximum-product-of-two-digits) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Choudharee07/Leetcode-series/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/Choudharee07/Leetcode-series/tree/master/1903-largest-odd-number-in-string) |
 | [2578-split-with-minimum-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/2578-split-with-minimum-sum) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Game Theory
 |  |
 | ------- |
