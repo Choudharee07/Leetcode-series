@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Choudharee07/Leetcode-series/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0771-jewels-and-stones](https://github.com/Choudharee07/Leetcode-series/tree/master/0771-jewels-and-stones) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Choudharee07/Leetcode-series/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Choudharee07/Leetcode-series/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Choudharee07/Leetcode-series/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/Choudharee07/Leetcode-series/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Choudharee07/Leetcode-series/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Choudharee07/Leetcode-series/tree/master/0771-jewels-and-stones) |
 | [0821-shortest-distance-to-a-character](https://github.com/Choudharee07/Leetcode-series/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/Choudharee07/Leetcode-series/tree/master/0917-reverse-only-letters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Choudharee07/Leetcode-series/tree/master/1160-find-words-that-can-be-formed-by-characters) |
