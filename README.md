@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1925-count-square-sum-triples](https://github.com/Choudharee07/Leetcode-series/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/Choudharee07/Leetcode-series/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Choudharee07/Leetcode-series/tree/master/2119-a-number-after-a-double-reversal) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/Choudharee07/Leetcode-series/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Choudharee07/Leetcode-series/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Choudharee07/Leetcode-series/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Choudharee07/Leetcode-series/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/Choudharee07/Leetcode-series/tree/master/1903-largest-odd-number-in-string) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/Choudharee07/Leetcode-series/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2578-split-with-minimum-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/2578-split-with-minimum-sum) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Game Theory
