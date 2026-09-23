@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3232-find-if-digit-game-can-be-won](https://github.com/Choudharee07/Leetcode-series/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Choudharee07/Leetcode-series/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3492-maximum-containers-on-a-ship](https://github.com/Choudharee07/Leetcode-series/tree/master/3492-maximum-containers-on-a-ship) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Choudharee07/Leetcode-series/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/Choudharee07/Leetcode-series/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Choudharee07/Leetcode-series/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
