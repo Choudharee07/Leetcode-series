@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Choudharee07/Leetcode-series/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Choudharee07/Leetcode-series/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Choudharee07/Leetcode-series/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Choudharee07/Leetcode-series/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/Choudharee07/Leetcode-series/tree/master/0566-reshape-the-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Choudharee07/Leetcode-series/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Choudharee07/Leetcode-series/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Choudharee07/Leetcode-series/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Choudharee07/Leetcode-series/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/Choudharee07/Leetcode-series/tree/master/0771-jewels-and-stones) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Choudharee07/Leetcode-series/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Choudharee07/Leetcode-series/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Choudharee07/Leetcode-series/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Choudharee07/Leetcode-series/tree/master/0392-is-subsequence) |
+| [0500-keyboard-row](https://github.com/Choudharee07/Leetcode-series/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/Choudharee07/Leetcode-series/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Choudharee07/Leetcode-series/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Choudharee07/Leetcode-series/tree/master/0557-reverse-words-in-a-string-iii) |
