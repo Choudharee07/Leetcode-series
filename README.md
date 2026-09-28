@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0821-shortest-distance-to-a-character](https://github.com/Choudharee07/Leetcode-series/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/Choudharee07/Leetcode-series/tree/master/0917-reverse-only-letters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Choudharee07/Leetcode-series/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Choudharee07/Leetcode-series/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Choudharee07/Leetcode-series/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1903-largest-odd-number-in-string](https://github.com/Choudharee07/Leetcode-series/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Choudharee07/Leetcode-series/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/Choudharee07/Leetcode-series/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Choudharee07/Leetcode-series/tree/master/0496-next-greater-element-i) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Choudharee07/Leetcode-series/tree/master/1441-build-an-array-with-stack-operations) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Choudharee07/Leetcode-series/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Choudharee07/Leetcode-series/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Database
 |  |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Choudharee07/Leetcode-series/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Choudharee07/Leetcode-series/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Enumeration
 |  |
 | ------- |
