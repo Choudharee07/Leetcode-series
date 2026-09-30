@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0821-shortest-distance-to-a-character](https://github.com/Choudharee07/Leetcode-series/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Choudharee07/Leetcode-series/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Choudharee07/Leetcode-series/tree/master/0877-stone-game) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Choudharee07/Leetcode-series/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0922-sort-array-by-parity-ii](https://github.com/Choudharee07/Leetcode-series/tree/master/0922-sort-array-by-parity-ii) |
 | [1089-duplicate-zeros](https://github.com/Choudharee07/Leetcode-series/tree/master/1089-duplicate-zeros) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Choudharee07/Leetcode-series/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0500-keyboard-row](https://github.com/Choudharee07/Leetcode-series/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Choudharee07/Leetcode-series/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/Choudharee07/Leetcode-series/tree/master/0771-jewels-and-stones) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Choudharee07/Leetcode-series/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Choudharee07/Leetcode-series/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Choudharee07/Leetcode-series/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0728-self-dividing-numbers](https://github.com/Choudharee07/Leetcode-series/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/Choudharee07/Leetcode-series/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Choudharee07/Leetcode-series/tree/master/0877-stone-game) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Choudharee07/Leetcode-series/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Choudharee07/Leetcode-series/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Choudharee07/Leetcode-series/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Choudharee07/Leetcode-series/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Choudharee07/Leetcode-series/tree/master/0229-majority-element-ii) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Choudharee07/Leetcode-series/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Choudharee07/Leetcode-series/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/1748-sum-of-unique-elements) |
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Choudharee07/Leetcode-series/tree/master/0204-count-primes) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Choudharee07/Leetcode-series/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1952-three-divisors](https://github.com/Choudharee07/Leetcode-series/tree/master/1952-three-divisors) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Choudharee07/Leetcode-series/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Primality Test
@@ -498,4 +503,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/Choudharee07/Leetcode-series/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Choudharee07/Leetcode-series/tree/master/0876-middle-of-the-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Choudharee07/Leetcode-series/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Choudharee07/Leetcode-series/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Choudharee07/Leetcode-series/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
