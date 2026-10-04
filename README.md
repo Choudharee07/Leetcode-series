@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2032-two-out-of-three](https://github.com/Choudharee07/Leetcode-series/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Choudharee07/Leetcode-series/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Choudharee07/Leetcode-series/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Choudharee07/Leetcode-series/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Choudharee07/Leetcode-series/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Choudharee07/Leetcode-series/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Choudharee07/Leetcode-series/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Choudharee07/Leetcode-series/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Choudharee07/Leetcode-series/tree/master/2465-number-of-distinct-averages) |
 | [2578-split-with-minimum-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/2578-split-with-minimum-sum) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Choudharee07/Leetcode-series/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Choudharee07/Leetcode-series/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Choudharee07/Leetcode-series/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Choudharee07/Leetcode-series/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/Choudharee07/Leetcode-series/tree/master/2485-find-the-pivot-integer) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Choudharee07/Leetcode-series/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/Choudharee07/Leetcode-series/tree/master/1903-largest-odd-number-in-string) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Choudharee07/Leetcode-series/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2578-split-with-minimum-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/2578-split-with-minimum-sum) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Game Theory
