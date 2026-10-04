@@ -3,9 +3,7 @@ public:
     long long minimalKSum(vector<int>& nums, int k) {
         sort(nums.begin(), nums.end());
         long long sum = 0,i = 0, rem = k;
-
         for (int x : nums) {
-            if (rem == 0) break;
             if (x <= i) continue;
             long long val = min(rem, (long long)x - i - 1);
             if (val > 0) {
