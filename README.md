@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Choudharee07/Leetcode-series/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3866-first-unique-even-element](https://github.com/Choudharee07/Leetcode-series/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Choudharee07/Leetcode-series/tree/master/3875-construct-uniform-parity-array-i) |
+| [3895-count-digit-appearances](https://github.com/Choudharee07/Leetcode-series/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/Choudharee07/Leetcode-series/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Choudharee07/Leetcode-series/tree/master/3904-smallest-stable-index-ii) |
 | [3978-unique-middle-element](https://github.com/Choudharee07/Leetcode-series/tree/master/3978-unique-middle-element) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3783-mirror-distance-of-an-integer](https://github.com/Choudharee07/Leetcode-series/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Choudharee07/Leetcode-series/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Choudharee07/Leetcode-series/tree/master/3875-construct-uniform-parity-array-i) |
+| [3895-count-digit-appearances](https://github.com/Choudharee07/Leetcode-series/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/Choudharee07/Leetcode-series/tree/master/3945-digit-frequency-score) |
 | [3959-check-good-integer](https://github.com/Choudharee07/Leetcode-series/tree/master/3959-check-good-integer) |
 ## Recursion
