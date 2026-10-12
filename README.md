@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Choudharee07/Leetcode-series/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/Choudharee07/Leetcode-series/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Choudharee07/Leetcode-series/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2032-two-out-of-three](https://github.com/Choudharee07/Leetcode-series/tree/master/2032-two-out-of-three) |
@@ -521,4 +522,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Choudharee07/Leetcode-series/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Choudharee07/Leetcode-series/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
