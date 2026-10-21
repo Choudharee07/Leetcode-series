@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Choudharee07/Leetcode-series/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Choudharee07/Leetcode-series/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2678-number-of-senior-citizens](https://github.com/Choudharee07/Leetcode-series/tree/master/2678-number-of-senior-citizens) |
+| [2864-maximum-odd-binary-number](https://github.com/Choudharee07/Leetcode-series/tree/master/2864-maximum-odd-binary-number) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Choudharee07/Leetcode-series/tree/master/3884-first-matching-character-from-both-ends) |
 ## Bit Manipulation
 |  |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2544-alternating-digit-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/2544-alternating-digit-sum) |
 | [2578-split-with-minimum-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/2578-split-with-minimum-sum) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Choudharee07/Leetcode-series/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [2864-maximum-odd-binary-number](https://github.com/Choudharee07/Leetcode-series/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Choudharee07/Leetcode-series/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Choudharee07/Leetcode-series/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Choudharee07/Leetcode-series/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Choudharee07/Leetcode-series/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2578-split-with-minimum-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/2578-split-with-minimum-sum) |
+| [2864-maximum-odd-binary-number](https://github.com/Choudharee07/Leetcode-series/tree/master/2864-maximum-odd-binary-number) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Game Theory
 |  |
