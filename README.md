@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/Choudharee07/Leetcode-series/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Choudharee07/Leetcode-series/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0922-sort-array-by-parity-ii](https://github.com/Choudharee07/Leetcode-series/tree/master/0922-sort-array-by-parity-ii) |
+| [0997-find-the-town-judge](https://github.com/Choudharee07/Leetcode-series/tree/master/0997-find-the-town-judge) |
 | [1089-duplicate-zeros](https://github.com/Choudharee07/Leetcode-series/tree/master/1089-duplicate-zeros) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Choudharee07/Leetcode-series/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Choudharee07/Leetcode-series/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Choudharee07/Leetcode-series/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/Choudharee07/Leetcode-series/tree/master/0771-jewels-and-stones) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Choudharee07/Leetcode-series/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0997-find-the-town-judge](https://github.com/Choudharee07/Leetcode-series/tree/master/0997-find-the-town-judge) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Choudharee07/Leetcode-series/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Choudharee07/Leetcode-series/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -537,4 +539,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Choudharee07/Leetcode-series/tree/master/0191-number-of-1-bits) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Choudharee07/Leetcode-series/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
