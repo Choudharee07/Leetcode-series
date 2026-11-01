@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3701-compute-alternating-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Choudharee07/Leetcode-series/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3838-weighted-word-mapping](https://github.com/Choudharee07/Leetcode-series/tree/master/3838-weighted-word-mapping) |
 | [3866-first-unique-even-element](https://github.com/Choudharee07/Leetcode-series/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Choudharee07/Leetcode-series/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Choudharee07/Leetcode-series/tree/master/3895-count-digit-appearances) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2678-number-of-senior-citizens](https://github.com/Choudharee07/Leetcode-series/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Choudharee07/Leetcode-series/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2864-maximum-odd-binary-number](https://github.com/Choudharee07/Leetcode-series/tree/master/2864-maximum-odd-binary-number) |
+| [3838-weighted-word-mapping](https://github.com/Choudharee07/Leetcode-series/tree/master/3838-weighted-word-mapping) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Choudharee07/Leetcode-series/tree/master/3884-first-matching-character-from-both-ends) |
 ## Bit Manipulation
 |  |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Choudharee07/Leetcode-series/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Choudharee07/Leetcode-series/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3701-compute-alternating-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/3701-compute-alternating-sum) |
+| [3838-weighted-word-mapping](https://github.com/Choudharee07/Leetcode-series/tree/master/3838-weighted-word-mapping) |
 | [3959-check-good-integer](https://github.com/Choudharee07/Leetcode-series/tree/master/3959-check-good-integer) |
 ## Stack
 |  |
