@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/Choudharee07/Leetcode-series/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Choudharee07/Leetcode-series/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Choudharee07/Leetcode-series/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/Choudharee07/Leetcode-series/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Choudharee07/Leetcode-series/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/Choudharee07/Leetcode-series/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Choudharee07/Leetcode-series/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Choudharee07/Leetcode-series/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/Choudharee07/Leetcode-series/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Choudharee07/Leetcode-series/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Choudharee07/Leetcode-series/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/Choudharee07/Leetcode-series/tree/master/0500-keyboard-row) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Choudharee07/Leetcode-series/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/Choudharee07/Leetcode-series/tree/master/0383-ransom-note) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Choudharee07/Leetcode-series/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Choudharee07/Leetcode-series/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/1394-find-lucky-integer-in-an-array) |
