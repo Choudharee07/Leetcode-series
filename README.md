@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2778-sum-of-squares-of-special-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Choudharee07/Leetcode-series/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Choudharee07/Leetcode-series/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Choudharee07/Leetcode-series/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Choudharee07/Leetcode-series/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Choudharee07/Leetcode-series/tree/master/3232-find-if-digit-game-can-be-won) |
