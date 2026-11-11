@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Choudharee07/Leetcode-series/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0922-sort-array-by-parity-ii](https://github.com/Choudharee07/Leetcode-series/tree/master/0922-sort-array-by-parity-ii) |
 | [0997-find-the-town-judge](https://github.com/Choudharee07/Leetcode-series/tree/master/0997-find-the-town-judge) |
+| [1051-height-checker](https://github.com/Choudharee07/Leetcode-series/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Choudharee07/Leetcode-series/tree/master/1089-duplicate-zeros) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Choudharee07/Leetcode-series/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Choudharee07/Leetcode-series/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/Choudharee07/Leetcode-series/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Choudharee07/Leetcode-series/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0922-sort-array-by-parity-ii](https://github.com/Choudharee07/Leetcode-series/tree/master/0922-sort-array-by-parity-ii) |
+| [1051-height-checker](https://github.com/Choudharee07/Leetcode-series/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Choudharee07/Leetcode-series/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Choudharee07/Leetcode-series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Choudharee07/Leetcode-series/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -561,4 +563,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Choudharee07/Leetcode-series/tree/master/0997-find-the-town-judge) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Choudharee07/Leetcode-series/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Choudharee07/Leetcode-series/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
