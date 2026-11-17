@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2465-number-of-distinct-averages](https://github.com/Choudharee07/Leetcode-series/tree/master/2465-number-of-distinct-averages) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Choudharee07/Leetcode-series/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Choudharee07/Leetcode-series/tree/master/2540-minimum-common-value) |
+| [2562-find-the-array-concatenation-value](https://github.com/Choudharee07/Leetcode-series/tree/master/2562-find-the-array-concatenation-value) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/Choudharee07/Leetcode-series/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2678-number-of-senior-citizens](https://github.com/Choudharee07/Leetcode-series/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Choudharee07/Leetcode-series/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Choudharee07/Leetcode-series/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Choudharee07/Leetcode-series/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/Choudharee07/Leetcode-series/tree/master/2540-minimum-common-value) |
+| [2562-find-the-array-concatenation-value](https://github.com/Choudharee07/Leetcode-series/tree/master/2562-find-the-array-concatenation-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Choudharee07/Leetcode-series/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Choudharee07/Leetcode-series/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/Choudharee07/Leetcode-series/tree/master/3794-reverse-string-prefix) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2169-count-operations-to-obtain-zero](https://github.com/Choudharee07/Leetcode-series/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Choudharee07/Leetcode-series/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2562-find-the-array-concatenation-value](https://github.com/Choudharee07/Leetcode-series/tree/master/2562-find-the-array-concatenation-value) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Choudharee07/Leetcode-series/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3701-compute-alternating-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/Choudharee07/Leetcode-series/tree/master/3838-weighted-word-mapping) |
