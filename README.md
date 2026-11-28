@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2864-maximum-odd-binary-number](https://github.com/Choudharee07/Leetcode-series/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Choudharee07/Leetcode-series/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Choudharee07/Leetcode-series/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Choudharee07/Leetcode-series/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Choudharee07/Leetcode-series/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Choudharee07/Leetcode-series/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Choudharee07/Leetcode-series/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2562-find-the-array-concatenation-value](https://github.com/Choudharee07/Leetcode-series/tree/master/2562-find-the-array-concatenation-value) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Choudharee07/Leetcode-series/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Choudharee07/Leetcode-series/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3360-stone-removal-game](https://github.com/Choudharee07/Leetcode-series/tree/master/3360-stone-removal-game) |
 | [3701-compute-alternating-sum](https://github.com/Choudharee07/Leetcode-series/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/Choudharee07/Leetcode-series/tree/master/3838-weighted-word-mapping) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0292-nim-game](https://github.com/Choudharee07/Leetcode-series/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Choudharee07/Leetcode-series/tree/master/0877-stone-game) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Choudharee07/Leetcode-series/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Bracket Sequences
 |  |
 | ------- |
